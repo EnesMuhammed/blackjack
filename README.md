@@ -265,6 +265,16 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
+## Credits
+
+Card images are from **Neo Cards** by **Joe Raczkowski** and are
+licensed under **CC BY-SA 4.0**.
+
+See [`assets/ATTRIBUTION.md`](assets/ATTRIBUTION.md) for the full
+credits and original image sources.
+
+---
+
 ## 👨‍💻 Author
 
 **Enes Muhammed**
